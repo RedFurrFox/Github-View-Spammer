@@ -1,5 +1,6 @@
 # Github-View-Spammer
-Unencrypted version of "https://github.com/RedFurrFox/Gthub-View-Spammer.en"
+Unencrypted version of "https://github.com/RedFurrFox/Gthub-View-Spammer.en".
+
 This is just a proof of concept and for educational purposes only!!!
 
 ---
